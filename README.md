@@ -122,14 +122,4 @@ docker-compose start helmet_worker
 
 ---
 
-## 🤝 Author
 
-Built by **Lohith Kandibanda** – for scalable, secure, and intelligent traffic monitoring 🚗🟍️🚵️
-
-Feel free to ⭐ the repo and contribute!
-
----
-
-## 🦾 License
-
-MIT License
